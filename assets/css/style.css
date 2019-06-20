@@ -1,0 +1,48 @@
+body {
+  font-family: 'Oswald', sans-serif;
+  font-family: 'Open Sans', sans-serif;
+}
+
+#about {
+  margin: auto;
+}
+
+#violeta {
+  background-color: #660066;
+}
+
+#work {
+  background-color: #660066;
+}
+
+h1 {
+  font-family: 'Oswald', Bold;
+  color: #FFFFFF;
+}
+
+h2 {
+  font-family: 'Oswald', ExtraLight;
+  color: #FFFFFF;
+}
+
+h3 {
+  font-family: 'Open Sans', SemiBold;
+}
+
+h4 {
+  font-family: 'Open Sans', SemiBold;
+  font-size: 25pt;
+}
+
+h5 {
+  font-family: 'Oswald', Bold;
+  color: #373A3C;
+}
+
+header {
+  background-image: url('../img/bg_hero.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-bottom: 10rem;
+}
